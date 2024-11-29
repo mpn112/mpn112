@@ -18,7 +18,7 @@ public class Main {
         pz2.setWiek(35);
         pz2.setLiczbaZmian(5);
         System.out.println(pz2);
-        //test commit
+
 
 
     }
